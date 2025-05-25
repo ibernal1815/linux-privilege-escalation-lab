@@ -1,1 +1,10 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
 
+# Ignore logs if needed
+/logs/*.log
+/logs/*.txt
+
+# Ignore compiled scripts or binaries
+/scripts/*.pyc
