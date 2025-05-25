@@ -16,7 +16,7 @@ The attacker gains initial low-privileged SSH access to the victim and then syst
 | Attacker VM   | Parrot OS Security Edition                 |
 | Victim VM     | Linux Mint 21.x XFCE                      |
 | Network       | Host-Only or Internal NAT (same subnet)    |
-| Resources     | Each VM: 2–4 vCPUs, 4 GB RAM, 25–40 GB HDD |
+| Resources     | Each VM: 2–4 vCPUs, 8 GB RAM, 64 GB HDD |
 
 
 ---
