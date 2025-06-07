@@ -167,18 +167,6 @@ This walkthrough document captures each step taken during the hands-on privilege
 
 ---
 
-## 📷 Screenshot Archive
-
-* SUID shell
-* Writable passwd
-* sudo vim root
-* Netcat bind shell
-* Systemd overwrite
-* Config secret
-* LinPEAS results
-
----
-
 ## 🧼 Cleanup Commands (Post-Lab)
 
 ```bash
