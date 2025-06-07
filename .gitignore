@@ -1,10 +1,29 @@
-# Ignore OS files
+
+---
+
+## 🛡️ `.gitignore`
+
+```gitignore
+# System
+*.log
+*.tmp
 .DS_Store
+*.bak
+*.swp
+
+# Screenshot and binary junk
+*.png
+*.jpg
+*.jpeg
+*.zip
+
+# Backup files
+*~
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS Metadata
 Thumbs.db
-
-# Ignore logs if needed
-/logs/*.log
-/logs/*.txt
-
-# Ignore compiled scripts or binaries
-/scripts/*.pyc
+ehthumbs.db
